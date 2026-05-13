@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 const GOOGLE_MAPS_API_KEY = "AIzaSyAluk6eMZnS5WPvuepqNmDuTz6RlqBQHLE";
-const EIA_API_KEY = ""; // ← paste your EIA key here after registering at api.eia.gov/registrations
+const EIA_API_KEY = "wImClQa34TfUslcSAP8wCM6DjqfPJWwvPLFUQQRd";
 
 // ─── EIA GAS PRICE FETCHER ───────────────────────────────────────────────────
 // Fetches real weekly retail gas prices by state from the US Energy Information
